@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 the deployment of tha apps.
 
 ## How to contribute
+
+###Copyright
